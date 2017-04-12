@@ -21,10 +21,13 @@
 <h1>FAQ</h1>
 
 <h2>Is this service free?</h2>
-<p>Yes, this service is free. You can add as many domains as you like, however, don't make it excessive. If you do, we might contact you to make an arrangement.</p><br>
+<p>Yes, this service is free. Please contact kvan-ops@kabaminc.com for more information</p><br>
 
 <h2>How often do you check a cert?</h2>
 <p>The check will run at least once every 2 days, but most of the time daily.</p><br>
+
+<h2>How you email me</h2>
+<p>WE use postfix configured to forward emails to smtp.gmail.com relay using jiraservice@kabaminc.com service account</p><br>
 
 <h2>When will you email me?</h2>
 <p>We will email you on the following events:<br>
@@ -49,7 +52,7 @@
   <li>If we cannot connect to your site for 7 days in a row, we'll delete the check.</li>
 </ul>
   If you replace your certificate before it expires, we'll stop emailing you until the new certificate expires again.<br>
-  We will never spam you or sell your data to a third party.<br>
+  We will never spam you or sell your data to a third party.(Mo might, not CT team )<br>
   </p><br>
 
 
@@ -57,7 +60,7 @@
 <p>Yes. All certificates in the chain are checked, a maximum of 10. You will receive notification if any of the chain certificates expire as well.</p><br>
 
 <h2>Do you provide any guarantees on uptime?</h2>
-<p>We provide this service on a best effort base. The project is fully open source, you can set up your own instance if you demand 100% uptime.</p><br>
+<p>We provide this service on a best effort base. Please contact CT kvan-ops@kabaminc.com for details</p><br>
 
 <h2>What license is the project under?</h2>
 <p>GNU Affero GPL v3 or later.</p><br>

@@ -22,6 +22,6 @@
 
 <p>This is open source software. If you encounter any issues, please report them <a href="https://github.com/RaymiiOrg/certificate-expiry-monitor">here</a>.
 
+<p>It was deployed from  <a href="https://github.com/areznikov-kabam/certificate-expiry-monitor"></a>.
+
 <hr>
-
-
